@@ -21,8 +21,8 @@ Your program must demonstrate your understanding of Java programming concepts fr
 ## Timeline/Checklist
 
 ### Planning & Research
-- Choose your challenge: dance, drawing, or maze navigation
-- Explore the Finch API documentation
+- Choose your challenge: dance, drawing, or maze navigation -- Chose Maze
+- Explore the Finch API documentation -- Done
 - Review sample programs from BirdBrain Technologies
 - Create a project plan with pseudocode/flow charts/
 - Clone and set up GitHub repository for your project
