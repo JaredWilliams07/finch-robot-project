@@ -1,3 +1,29 @@
+README.md file including:
+Project description and objectives
+Description of design choices
+Challenges faced and solutions
+Future enhancements
+Video or images of your robot in action (embedded or linked)
+
+
+
+
+# **Java Finch Robot Project**
+
+**Project description:**
+For the Finch Robot Final Project, students will apply object-oriented programming principles and Java concepts to program a Finch 2.0 robot to complete a chosen challenge such as dancing, artistic drawing, or autonomous maze navigation. The project emphasizes real-world problem-solving through algorithm design, sensor integration, and interactive behavior, while requiring clear documentation, version control, and the implementation of core APCSA topics such as loops, conditionals, inheritance, and arrays.
+
+**Description of design choices:**
+We chose to write the code for the finch to make its way through the maze without our help by first using the distance sensor to measure the distances from the wall in front of it and then using that distance minus several centimeters to give the finch the distance it needed to travel before it turned. We also had some extra time after making the path for the finch so we decided to make the robot do a small dance at the end of the maze and play a small song to celebrate it's success.
+**Challenges Faced:**
+Creating the code and fine tuning it to make sure the robot does not hit any walls, as well it was a challenge to find a song that we would be recognizeable when played by the finch that also sounded pleasing.
+**Future Enhancements:**
+In the future we might be able to full automate the robot so it can solve the maze with an algorithm and not have a planned path as long as there is something it an sense at the end such as a magnet or light.
+
+**Video of Finch**
+
+
+
 # Final Project: Finch Robot Challenges
 
 ## Essential Question
