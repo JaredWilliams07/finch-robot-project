@@ -8,7 +8,7 @@ Video or images of your robot in action (embedded or linked)
 
 
 
-**Java Finch Robot Project**
+# **Java Finch Robot Project**
 
 
 
